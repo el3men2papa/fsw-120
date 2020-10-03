@@ -1,8 +1,9 @@
 import React from "react"
+import "./Title.css"
 
 function Title(){
     return(
-        <h1>Assignment 1: Colored Info Boxes</h1>
+        <h1 className = "tittleCss">Title</h1>
     )
 }
 
