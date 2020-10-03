@@ -3,7 +3,7 @@ import "./Subtitle.css"
 
 function Subtitle(){
     return (
-<h4 className = "SubtitleCss"> Subtitle</h4>
+<h2 className = "SubtitleCss"> Subtitle</h2>
     )
 }
 
